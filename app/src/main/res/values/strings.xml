@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="about_activity_label">About ALC</string>
+    <string name="profile_activity_label">My Profile</string>
+    <string name="text_view_placeholder">TextView</string>
+    <string name="track_label">Track:</string>
+    <string name="country_label">Country:</string>
+    <string name="email_label">Email:</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="slack_username_label">Slack Username:  @</string>
+
+</resources>
